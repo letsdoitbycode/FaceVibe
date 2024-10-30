@@ -1,5 +1,3 @@
-# Akshay Bhosale
-# Emotion-Detection-CNN-model
 # Emotion Detection using CNN and Haar Cascade
 
 ## Overview
