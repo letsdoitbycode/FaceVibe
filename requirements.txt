@@ -1,0 +1,5 @@
+keras
+opencv-python
+tensorflow
+numpy
+flask
